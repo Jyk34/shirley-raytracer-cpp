@@ -1,0 +1,10 @@
+# Build folders
+out/
+build/
+
+# IDE folders
+.vs/
+.vscode/
+
+# Generated Images
+output/
